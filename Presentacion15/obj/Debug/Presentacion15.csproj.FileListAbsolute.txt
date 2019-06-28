@@ -1,0 +1,7 @@
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\bin\Debug\Presentacion15.exe.config
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\bin\Debug\Presentacion15.exe
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\bin\Debug\Presentacion15.pdb
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\obj\Debug\Presentacion15.csprojAssemblyReference.cache
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\obj\Debug\Presentacion15.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\obj\Debug\Presentacion15.exe
+C:\Users\Angel\Documents\Angel\Proyectos VS\Presentacion15\Presentacion15\obj\Debug\Presentacion15.pdb
